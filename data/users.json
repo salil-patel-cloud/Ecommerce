@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1775166004741",
+    "username": "rahul",
+    "email": "rahul@gmail.com",
+    "password": "123456",
+    "role": "customer",
+    "phone": "1234567890",
+    "address": "bbsr"
+  },
+  {
+    "id": "1775510453858",
+    "username": "rahul",
+    "email": "rahul@email.com",
+    "password": "123456",
+    "role": "customer",
+    "phone": "",
+    "address": ""
+  },
+  {
+    "id": 1775579700345,
+    "username": "seller123",
+    "email": "seller@email.com",
+    "password": "123456",
+    "role": "seller",
+    "address": "",
+    "phone": ""
+  }
+]
